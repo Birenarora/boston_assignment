@@ -1,6 +1,6 @@
 # Boston Assignment Task
 
-## For running the project properly, make sure you are having Apache & MySQL running, so for this you can install XAMPP & then start Apache % MySQL servers
+## For running the project properly, make sure you are having Apache & MySQL running, so for this you can install XAMPP & then start Apache & MySQL servers
 
 ## Steps to view this assignment:
 1) Clone the repository

@@ -1,9 +1,14 @@
 # Boston Assignment Task
 
+## For running the project properly, make sure you are having Apache & MySQL running, so for this you can install XAMPP & then start Apache % MySQL servers
+
 ## Steps to view this assignment:
 1) Clone the repository
 2) Inside project directory on your local machine, in command line type:
 composer install
+3) Copy all the contents of .env.example to .env
+4) Run the migrations, in command line type:
+php artisan migrate
 3) Running the project, in command line type:
 php artisan serve
 
